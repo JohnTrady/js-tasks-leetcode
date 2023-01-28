@@ -1,5 +1,5 @@
 'use strict';
-// Task-13 (69. Sqrt(x) from lettcode.com)
+// Task-13 (69. Sqrt(x) from leetcode.com)
 
 /**
  * Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
