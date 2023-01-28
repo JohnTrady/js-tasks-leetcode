@@ -1,5 +1,5 @@
 'use strict';
-// Task-19 (5. Longest Palindromic Substring from lettcode.com)
+// Task-19 (5. Longest Palindromic Substring from leetcode.com)
 
 /**Given a string s, return the longest 
 palindromic
