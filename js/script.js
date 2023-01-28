@@ -1,6 +1,6 @@
 'use strict';
 
-// Task-12 (67. Add Binary from lettcode.com)
+// Task-12 (67. Add Binary from leetcode.com)
 
 /**
  * Given two binary strings a and b, return their sum as a binary string.
