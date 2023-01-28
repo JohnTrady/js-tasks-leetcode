@@ -1,5 +1,5 @@
 'use strict';
-// Task- (... from lettcode.com)
+// Task- (... from leetcode.com)
 
 
 
