@@ -1,5 +1,5 @@
 'use strict';
-// Task-18 (3. Longest Substring Without Repeating Characters from lettcode.com)
+// Task-18 (3. Longest Substring Without Repeating Characters from leetcode.com)
 
 /**
  * Given a string s, find the length of the longest substring
