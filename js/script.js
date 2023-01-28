@@ -1,5 +1,5 @@
 'use strict';
-// Task-14 (70. Climbing Stairsfrom lettcode.com)
+// Task-14 (70. Climbing Stairsfrom leetcode.com)
 
 /**
  * @param {number} n
